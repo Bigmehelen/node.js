@@ -1,5 +1,5 @@
 # Use a lightweight Node image
-FROM node:18-alpine
+FROM node:18
 
 # Create app directory
 WORKDIR /app
@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 3000
 
 # Start the app
-CMD ["node", "server.js"]
+CMD ["npm", "start"]
