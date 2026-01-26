@@ -1,9 +1,8 @@
+import express from "express"
+const router = express.Router()
+import UrlController  from  "../controllers/UrlController.js"
 
-import express from "express";
-
-const UrlController = require("../controllers/UrlController");
-
-router.post("/api", UrlController.createShortUrl);
-router.get("/api/code", UrlController.redirectUrl);
+router.post("/createShortUrl", UrlController.createShortUrl);
+router.get("/redirectUrl", UrlController.redirectUrl);
 
 export default router;

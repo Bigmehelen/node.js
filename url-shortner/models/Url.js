@@ -1,11 +1,11 @@
 
 import mongoose from "mongoose";
-const { Schema, model } = mongoose;
+const {Schema, model} = mongoose;
 
 const urlLink = new Schema({
   originalUrl: { type: String, required: true },
   shortCode: { type: String, required: true, unique: true },
-}, { timestamps: true });
+}, {timestamps: true});
 
 const urlModel = model("Url", urlLink);
 

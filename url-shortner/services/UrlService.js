@@ -1,5 +1,5 @@
 import UrlRepository from "../repositories/UrlRepository.js";
-import { generateShortCode } from "../utils/UrlUtils.js";
+import {generateShortCode} from "../utils/UrlUtils.js";
 
 class UrlService {
 
