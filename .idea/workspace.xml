@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d063d99a-a477-410a-9663-cc2592b9e2e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/url-shortner/.env" beforeDir="false" afterPath="$PROJECT_DIR$/url-shortner/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url-shortner/config/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/url-shortner/config/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url-shortner/controllers/UrlController.js" beforeDir="false" afterPath="$PROJECT_DIR$/url-shortner/controllers/UrlController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url-shortner/models/Url.js" beforeDir="false" afterPath="$PROJECT_DIR$/url-shortner/models/Url.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url-shortner/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/url-shortner/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url-shortner/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/url-shortner/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url-shortner/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/url-shortner/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url-shortner/repositories/UrlRepository.js" beforeDir="false" afterPath="$PROJECT_DIR$/url-shortner/repositories/UrlRepository.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url-shortner/routes/UrlRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/url-shortner/routes/UrlRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url-shortner/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/url-shortner/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url-shortner/services/UrlService.js" beforeDir="false" afterPath="$PROJECT_DIR$/url-shortner/services/UrlService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url-shortner/utils/UrlUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/url-shortner/utils/UrlUtils.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3458rRwbSPInWCzs42wgw2S7xOC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/OneDrive/Desktop/node.js&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d063d99a-a477-410a-9663-cc2592b9e2e5" name="Changes" comment="" />
+      <created>1760492272438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760492272438</updated>
+      <workItem from="1760492274534" duration="26000" />
+      <workItem from="1760492324758" duration="8000" />
+    </task>
+    <servers />
+  </component>
+</project>
