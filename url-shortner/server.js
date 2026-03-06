@@ -10,7 +10,8 @@ dotenv.config();
 const PORT = process.env.PORT || 3000;
 const app = express();
 app.use(cors({
-  origin: "https://node-js-2qfe.onrender.com",
+  origin: ["http://localhost:5173",
+  "shortner-app.netlify.app"],
   methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true
 }));
